@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curiousity110
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Linux & Python
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning HTML, CSS, JS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me letssurvive@outlook.com
 
